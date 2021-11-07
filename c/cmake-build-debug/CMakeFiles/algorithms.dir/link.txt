@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/algorithms.dir/main.c.o CMakeFiles/algorithms.dir/median.c.o -o algorithms  -lm 

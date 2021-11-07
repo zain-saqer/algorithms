@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zain/projects/algorithms/main.c
+median.h
+/home/zain/projects/algorithms/median.h
+assert.h
+-
+
+/home/zain/projects/algorithms/median.h
+stdlib.h
+-
+
